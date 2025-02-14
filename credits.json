@@ -10,8 +10,8 @@
     "Mrkomps - Scripter"
   ],
   "Staff": [],
-  "1": "!Asset Contributions",
-  "2": [
+  "Normal": [
+    "!Asset Contributions",
     "Captain_Rexcat - Former Map Builder",
     "Fuzzy - Helped with Germantown",
     "Shoesslept - Cosmetic Accessory Assets",
@@ -19,15 +19,11 @@
     "Zapsplat - Purchase SFX",
     "LossOfFaith - Firearm Assets",
     "R_requiem - Imagery Assets",
-    "Dullest_Axe - Foliage assets"
-  ],
-  "3": "!Consultants",
-  "4": [
+    "Dullest_Axe - Foliage assets",
+    "!Consultants",
     "CentralOrDie - Historical Consultation",
-    "Packersare5 - Historical Consultation"
-  ],
-  "5": "!Translation Contributions",
-  "6": [
+    "Packersare5 - Historical Consultation",
+    "!Translation Contributions",
     "goldenVALLLLEY1234 - Thai Translations",
     "Simply_AintThere - Russian Translations",
     "Jimmydariflemanyo - Former Russian Translator",
