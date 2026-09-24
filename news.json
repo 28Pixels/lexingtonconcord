@@ -5,7 +5,9 @@
     "description": "Step onto any battlefield in style, in any game you'd like! Our official UGC hats are now available on the Roblox Marketplace.",
     "datePosted": "October 3, 2025 - We dropped UGC!",
     "author": "28Pixels",
-    "image": "rbxassetid://90659266330529"
+    "image": "rbxassetid://90659266330529",
+    "imagePositionY": 0.315,
+    "imageAspectRatio": 1.7778
   },
   {
     "id": "1751302699",
@@ -13,6 +15,8 @@
     "description": "We're testing out a newsletter feature aimed at informing players about important/miscellaneous announcements!",
     "datePosted": "June 28, 2025 - Hello World!",
     "author": "28Pixels",
-    "image": "rbxassetid://98605167519359"
+    "image": "rbxassetid://98605167519359",
+    "imagePositionY": 0.315,
+    "imageAspectRatio": 1
   }
 ]
